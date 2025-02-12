@@ -1,0 +1,15 @@
+Raster.pptx
+
+# Ignore common temporary files
+*.log
+*.tmp
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment configuration files (if any)
+.env
+
+*.png

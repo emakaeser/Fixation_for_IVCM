@@ -1,0 +1,17 @@
+id= 
+fixation eye= OD
+distance between points= 3 mm
+distance between points in whorl= 3 mm
+dot size= 3 mm
+monitor direction= vertical, counterclockwise
+movement direction= plexus
+screen dimensions= 155 / 87 mm
+screen resolution= 1920 / 1200 pixels
+
+SEQUENCE
+rectangle dimensions= 14 / 16 images
+distance between whorl and rectangle= 4 images
+number of steps nasally= 2 images
+mode= AUTOMATED
+time between points= 1.0 s
+foot switch= deactivated
